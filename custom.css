@@ -1,0 +1,16 @@
+.bussinessformback {
+    background: url('add_business_bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bussinessform {
+    background: rgba(129, 136, 136, 0.17);
+    padding: 20px;
+    border: 1px solid #f1f1f1;
+    border-radius: 15px;
+    color: #ffffff;
+    font-family: -webkit-body;
+}
+
+ 
